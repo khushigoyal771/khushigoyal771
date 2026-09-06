@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions+%F0%9F%92%A1;AI%2FML+Enthusiast+%7C+Data+Analyst+%F0%9F%93%8A;Building+Anomaly+Detection+Systems+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions+%F0%9F%92%A1;AI%2FML+Developer+%7C+Software+Developer+%F0%9F%93%8A;Building+Anomaly+Detection+Systems+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif)" width="95%" alt="Coding Girl Animation"/>
+      <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="95%" alt="Coding Girl Animation"/>
       <br/>
       <img src="https://user-images.githubusercontent.com/74038190/216656248-01907b39-a9b2-4e21-8b25-a0acbc6e6cdf.gif" width="70%" alt="Sparkle Divider"/>
     </td>
