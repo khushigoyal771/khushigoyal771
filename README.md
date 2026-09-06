@@ -1,37 +1,141 @@
-# 💫 About Me:
+<div align="center">
 
-Hi, I’m **Khushi Goyal**, a Computer Science graduate passionate about **Backend Engineering and Software Development**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:EF93C4&height=250&section=header&text=Hey%20there,%20I'm%20Khushi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,100:FF69B4&height=250&section=header&text=Hey%20there,%20I'm%20Khushi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18">
+  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,100:FF69B4&height=250&section=header&text=Hey%20there,%20I'm%20Khushi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18">
+</picture>
 
-💻 **Backend:** Python, FastAPI, Django, Flask  
-🗄️ **Databases:** MySQL, SQL  
-⚙️ **Engineering:** REST APIs, OOP, DSA, Git, Docker, Linux  
-☁️ **Currently learning:** System Design, Cloud & Distributed Systems  
-🚀 **Interested in:** Backend Engineering, scalable software systems & open-source development
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions+%F0%9F%92%A1;AI%2FML+Enthusiast+%7C+Data+Analyst+%F0%9F%93%8A;Building+Anomaly+Detection+Systems+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushigoyal771) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushigoyal771@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=flat-square&logo=openapiinitiative&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=khushigoyal771&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=khushigoyal771&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=khushigoyal771&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/github/followers/Khushigoyal771?label=Followers&style=for-the-badge&color=FF69B4&labelColor=1a1a1a" />
+<img src="https://img.shields.io/github/stars/Khushigoyal771?label=Stars&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" />
+<img src="https://komarev.com/ghpvc/?username=Khushigoyal771&label=Profile%20Views&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khushigoyal771&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<br/><br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khushigoyal771&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=khushigoyal771&icon=3&color=3)](https://visitcount.itsvg.in)
+<h2 align="center">🌸 About Me 🌸</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table align="center">
+  <tr>
+    <td width="65%" valign="top">
+      <p align="left">
+        🎓 &nbsp; B.Tech graduate in <b>Computer Science & Engineering</b> with hands-on internship experience in <b>AI/ML</b> and <b>Data Analytics</b>.<br/><br/>
+        🔍 &nbsp; Specializing in building <b>anomaly detection frameworks</b> and <b>real-time monitoring systems</b>.<br/><br/>
+        🐍 &nbsp; Skilled in <b>Python, SQL, machine learning libraries</b>, and <b>data visualization</b>, backed by a strong foundation in <b>data structures, algorithms</b>, and applied AI research.<br/><br/>
+        🧠 &nbsp; Passionate about exploring novel algorithmic approaches, data-driven optimization, and academic R&D to translate complex data models into scalable business solutions.<br/><br/>
+        🚀 &nbsp; Seeking an <b>entry-level role in AI/ML Engineering or Data Analytics</b> to tackle high-impact real-world challenges. &nbsp;💗
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="95%" alt="Coding Girl Animation"/>
+      <br/>
+      <img src="https://user-images.githubusercontent.com/74038190/216656248-01907b39-a9b2-4e21-8b25-a0acbc6e6cdf.gif" width="70%" alt="Sparkle Divider"/>
+    </td>
+  </tr>
+</table>
 
-ReadMe.md
-Displaying ReadMe.md.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+</div>
+
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,angular,nodejs,react,mysql,docker,git,linux,django,flask,fastapi&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power_BI-F8BBD0?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-EF93C4?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF69B4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-EF93C4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:EF93C4&height=3&width=800" />
+
+</div>
+
+<h2 align="center">📊 GitHub Streak 📊</h2>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushigoyal771&theme=default&hide_border=true&background=1A1A2E00&stroke=FF69B4&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0&card_width=700" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="90"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:F8BBD0,100:FF69B4&height=60&width=800" />
+
+</div>
+
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+
+<div align="center">
+
+<!--
+  This snake animation is generated automatically by a GitHub Action.
+  Workflow file required at: .github/workflows/snake.yml
+  Action used: Platane/snk
+  It commits the generated SVGs below to the "output" branch on every run.
+  Do not remove this comment — it marks the auto-generated section.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushigoyal771/Khushigoyal771/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khushigoyal771/Khushigoyal771/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Khushigoyal771/Khushigoyal771/output/github-contribution-grid-snake.svg" width="90%">
+</picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:EF93C4,100:FF69B4&height=60&width=800" />
+
+</div>
+
+<h2 align="center">🌐 Let's Connect 🌐</h2>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/Khushigoyal771" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/Khushigoyal771" target="_blank">
+  <img src="https://img.shields.io/badge/X-EF93C4?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://instagram.com/Khushigoyal771" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
+<a href="mailto:khushigoyal771@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:EF93C4&height=150&section=footer&animation=twinkling" />
+
+</div>
