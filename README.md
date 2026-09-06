@@ -30,15 +30,23 @@
   <tr>
     <td width="65%" valign="top">
       <p align="left">
-        🎓 &nbsp; B.Tech graduate in <b>Computer Science & Engineering</b> with hands-on internship experience in <b>AI/ML</b> and <b>Data Analytics</b>.<br/><br/>
-        🔍 &nbsp; Specializing in building <b>anomaly detection frameworks</b> and <b>real-time monitoring systems</b>.<br/><br/>
-        🐍 &nbsp; Skilled in <b>Python, SQL, machine learning libraries</b>, and <b>data visualization</b>, backed by a strong foundation in <b>data structures, algorithms</b>, and applied AI research.<br/><br/>
-        🧠 &nbsp; Passionate about exploring novel algorithmic approaches, data-driven optimization, and academic R&D to translate complex data models into scalable business solutions.<br/><br/>
-        🚀 &nbsp; Seeking an <b>entry-level role in AI/ML Engineering or Data Analytics</b> to tackle high-impact real-world challenges. &nbsp;💗
+        💻 &nbsp; <b>Software Engineer</b> focused on building intelligent, reliable, and scalable systems across <b>software engineering, AI/ML, and data</b>.<br/><br/>
+
+  ⚡ &nbsp; Experience spanning <b>real-time monitoring, anomaly detection, backend development</b>, and <b>data-driven automation</b>, with a focus on solving practical engineering problems.<br/><br/>
+
+  🐍 &nbsp; Skilled in <b>Python, Java, C, C++, DSA, and OOP</b>, with a strong focus on clean and efficient solutions.<br/><br/>
+
+  ⚙️ &nbsp; Backend experience with <b>FastAPI, Django, Flask, and Node.js</b>, alongside <b>SQL, MySQL, Docker, Linux, and Git</b>.<br/><br/>
+
+  🧠 &nbsp; Experienced with <b>Scikit-learn, TensorFlow, NumPy, and Pandas</b> for building data-driven and intelligent systems.<br/><br/>
+
+  ✨ &nbsp; I enjoy transforming <b>complex problems into efficient, maintainable solutions</b> and connecting intelligent models, data, and backend services.<br/><br/>
+
+  📧 &nbsp; <b>khushigoyal771@gmail.com</b> &nbsp; • &nbsp; 🌍 <b>Open to Global Opportunities</b>
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="95%" alt="Coding Girl Animation"/>
+      <img src="[https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif)" width="95%" alt="Coding Girl Animation"/>
       <br/>
       <img src="https://user-images.githubusercontent.com/74038190/216656248-01907b39-a9b2-4e21-8b25-a0acbc6e6cdf.gif" width="70%" alt="Sparkle Divider"/>
     </td>
@@ -118,13 +126,13 @@
 <a href="https://linkedin.com/in/Khushigoyal771" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://x.com/Khushigoyal771" target="_blank">
+<a href="https://x.com/KhushiGoya54419" target="_blank">
   <img src="https://img.shields.io/badge/X-EF93C4?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://instagram.com/Khushigoyal771" target="_blank">
+<a href="https://instagram.com/itskhushique" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
-<a href="mailto:khushigoyal771@example.com" target="_blank">
+<a href="mailto:khushigoyal771@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
